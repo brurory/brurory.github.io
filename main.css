@@ -21,8 +21,14 @@ h1{
 body{
    background-color:lawngreen
 }
-@media (max-width:414px) {
+@media (max-width:470px) {
     body {
-        background-image: url(controller-xbox.png)
+        background-image: url(terraria%20.png)
+    }
+}
+@media (max-width:870px) {
+    body {
+        background-image: url(Over.jpg)
+            
     }
 }
