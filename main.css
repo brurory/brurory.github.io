@@ -22,5 +22,7 @@ body{
    background-color:lawngreen
 }
 @media (max-width:414px) {
-    body {background-image: controller-xbox.png}
+    body {
+        background-image: url(controller-xbox.png)
+    }
 }
