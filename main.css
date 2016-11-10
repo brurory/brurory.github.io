@@ -1,5 +1,5 @@
      h1 {
-            color:saddlebrown;
+            color:palegreen;
         }
         h4 {
             color:blue;
@@ -14,14 +14,3 @@ body {
 }
 
 
-@media (max-width:470px) {
-    body {
-        background-image: url(terraria%20.png)
-    }
-}
-@media (max-width:870px) {
-    body {
-        background-image: url(Over.jpg)
-            
-    }
-}
